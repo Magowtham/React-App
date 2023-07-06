@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Magowtham/React-App.git/static/css/main.68b10761.css",
+    "main.js": "/Magowtham/React-App.git/static/js/main.095c9f78.js",
+    "index.html": "/Magowtham/React-App.git/index.html",
+    "main.68b10761.css.map": "/Magowtham/React-App.git/static/css/main.68b10761.css.map",
+    "main.095c9f78.js.map": "/Magowtham/React-App.git/static/js/main.095c9f78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68b10761.css",
+    "static/js/main.095c9f78.js"
+  ]
+}
